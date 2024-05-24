@@ -8,7 +8,7 @@ Bem-vindo ao meu primeiro desafio concluído na [Rocketseat](https://www.rockets
 
 Este projeto é uma aplicação web simples desenvolvida como parte do curso da Rocketseat. O objetivo deste desafio é aplicar os conceitos básicos de desenvolvimento web, incluindo HTML, CSS e JavaScript, para criar uma página funcional e estilizada.
 
-[![printprojeto.png](https://i.postimg.cc/JzDp1kBb/printprojeto.png)](https://postimg.cc/yDKmjWjd)
+[![Captura-de-tela-2024-05-24-194904.png](https://i.postimg.cc/0yv2dpdf/Captura-de-tela-2024-05-24-194904.png)](https://postimg.cc/gnMWGL7X)
 
 ---
 
